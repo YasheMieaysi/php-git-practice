@@ -1,6 +1,6 @@
 <?php
 
 return [
-    'University System' => 'Student System',
+    'app_name' => 'University Portal',
     'debug' => false,
 ];
