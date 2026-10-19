@@ -1,6 +1,6 @@
 <?php
 
 return [
-    'app_name' => 'Student System',
+    'University System' => 'Student System',
     'debug' => false,
 ];
